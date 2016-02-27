@@ -1,0 +1,11 @@
+{
+  "name": "docker-centos-hellp",
+  "private": true,
+  "version": "0.0.1",
+  "description" : "Node.js Hello World app on CentOS using Docker",
+  "author": "Van Isac <van_isac@yahoo.com>",
+  "dependencies": {
+    "express": "3.2.4"
+  }
+}
+
